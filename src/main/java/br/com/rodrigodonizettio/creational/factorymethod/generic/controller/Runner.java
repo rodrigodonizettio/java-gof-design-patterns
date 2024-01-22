@@ -1,8 +1,8 @@
-package br.com.rodrigodonizettio.creational.factory.generic.controller;
+package br.com.rodrigodonizettio.creational.factorymethod.generic.controller;
 
-import br.com.rodrigodonizettio.creational.factory.after.model.TrainerAfter;
-import br.com.rodrigodonizettio.creational.factory.before.model.TrainerBefore;
-import br.com.rodrigodonizettio.creational.factory.generic.model.Type;
+import br.com.rodrigodonizettio.creational.factorymethod.after.model.TrainerAfter;
+import br.com.rodrigodonizettio.creational.factorymethod.before.model.TrainerBefore;
+import br.com.rodrigodonizettio.creational.factorymethod.generic.model.Type;
 
 public class Runner {
     public static void main(String[] args) {

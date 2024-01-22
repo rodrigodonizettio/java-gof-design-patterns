@@ -1,9 +1,9 @@
-package br.com.rodrigodonizettio.creational.factory.before.model;
+package br.com.rodrigodonizettio.creational.factorymethod.before.model;
 
-import br.com.rodrigodonizettio.creational.factory.generic.model.Bulbasaur;
-import br.com.rodrigodonizettio.creational.factory.generic.model.Type;
-import br.com.rodrigodonizettio.creational.factory.generic.model.Charmander;
-import br.com.rodrigodonizettio.creational.factory.generic.model.Pokemon;
+import br.com.rodrigodonizettio.creational.factorymethod.generic.model.Bulbasaur;
+import br.com.rodrigodonizettio.creational.factorymethod.generic.model.Type;
+import br.com.rodrigodonizettio.creational.factorymethod.generic.model.Charmander;
+import br.com.rodrigodonizettio.creational.factorymethod.generic.model.Pokemon;
 
 public class TrainerBefore {
     Pokemon firstPokemon;

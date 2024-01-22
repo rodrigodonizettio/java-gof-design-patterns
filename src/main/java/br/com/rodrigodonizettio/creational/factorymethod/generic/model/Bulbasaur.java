@@ -1,4 +1,4 @@
-package br.com.rodrigodonizettio.creational.factory.generic.model;
+package br.com.rodrigodonizettio.creational.factorymethod.generic.model;
 
 public class Bulbasaur implements Pokemon {
     public Bulbasaur() { }
