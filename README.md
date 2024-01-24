@@ -11,3 +11,4 @@ This repository has the following examples of implementation:
 
 * Creational Patterns
   * Factory Method
+  * Abstract Factory
