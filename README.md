@@ -13,3 +13,4 @@ This repository has the following examples of implementation:
   * Factory Method
   * Abstract Factory
   * Singleton
+  * Monostate
