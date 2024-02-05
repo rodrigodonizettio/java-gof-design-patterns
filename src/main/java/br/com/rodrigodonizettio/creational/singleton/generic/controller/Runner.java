@@ -1,6 +1,6 @@
 package br.com.rodrigodonizettio.creational.singleton.generic.controller;
 
-import br.com.rodrigodonizettio.creational.singleton.after.MewtwoAfter;
+import br.com.rodrigodonizettio.creational.singleton.after.model.MewtwoAfter;
 import br.com.rodrigodonizettio.creational.singleton.before.model.MewtwoBefore;
 import br.com.rodrigodonizettio.creational.singleton.generic.model.Pokemon;
 

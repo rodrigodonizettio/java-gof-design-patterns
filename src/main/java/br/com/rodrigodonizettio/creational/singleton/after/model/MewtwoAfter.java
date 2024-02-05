@@ -1,4 +1,4 @@
-package br.com.rodrigodonizettio.creational.singleton.after;
+package br.com.rodrigodonizettio.creational.singleton.after.model;
 
 import br.com.rodrigodonizettio.creational.singleton.generic.model.Pokemon;
 
