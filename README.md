@@ -14,3 +14,4 @@ This repository has the following examples of implementation:
   * Abstract Factory
   * Singleton
   * Monostate
+  * Builder
