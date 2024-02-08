@@ -15,3 +15,4 @@ This repository has the following examples of implementation:
   * Singleton
   * Monostate
   * Builder
+  * Prototype
