@@ -16,3 +16,7 @@ This repository has the following examples of implementation:
   * Monostate
   * Builder
   * Prototype
+
+
+* Structural Patterns
+  * Adapter
