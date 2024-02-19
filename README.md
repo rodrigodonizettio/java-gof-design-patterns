@@ -21,3 +21,4 @@ This repository has the following examples of implementation:
 * Structural Patterns
   * Adapter
   * Bridge
+  * Composite
