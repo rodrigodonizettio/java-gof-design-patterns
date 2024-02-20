@@ -1,4 +1,4 @@
-package br.com.rodrigodonizettio.structural.composite.generic.model;
+package br.com.rodrigodonizettio.structural.composite.model;
 
 
 public class Raichu implements Pokemon {

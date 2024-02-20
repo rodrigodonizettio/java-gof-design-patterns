@@ -1,6 +1,6 @@
-package br.com.rodrigodonizettio.structural.composite.generic.service;
+package br.com.rodrigodonizettio.structural.composite.service;
 
-import br.com.rodrigodonizettio.structural.composite.generic.model.Pokemon;
+import br.com.rodrigodonizettio.structural.composite.model.Pokemon;
 
 import java.util.List;
 
