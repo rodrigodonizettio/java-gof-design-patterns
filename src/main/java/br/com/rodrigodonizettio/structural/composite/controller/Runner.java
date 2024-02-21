@@ -14,7 +14,6 @@ public class Runner {
         EvolutionChain bulbasaurEvolutions = new EvolutionChain(List.of(new Bulbasaur(), new Ivysaur(), new Venusaur()));
         System.out.println(bulbasaurEvolutions.speak());
 
-
         EvolutionChain pikachuEvolutions = new EvolutionChain(List.of(new Pikachu(), new Raichu()));
         System.out.println(pikachuEvolutions.speak());
     }
