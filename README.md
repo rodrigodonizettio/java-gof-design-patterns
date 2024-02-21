@@ -22,3 +22,4 @@ This repository has the following examples of implementation:
   * Adapter
   * Bridge
   * Composite
+  * Decorator
