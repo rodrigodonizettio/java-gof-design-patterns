@@ -23,3 +23,4 @@ This repository has the following examples of implementation:
   * Bridge
   * Composite
   * Decorator
+  * Facade
