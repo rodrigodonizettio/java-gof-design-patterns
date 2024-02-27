@@ -24,3 +24,4 @@ This repository has the following examples of implementation:
   * Composite
   * Decorator
   * Facade
+  * Flyweight
