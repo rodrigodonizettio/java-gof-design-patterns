@@ -25,3 +25,4 @@ This repository has the following examples of implementation:
   * Decorator
   * Facade
   * Flyweight
+  * Proxy
