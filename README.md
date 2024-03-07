@@ -26,3 +26,7 @@ This repository has the following examples of implementation:
   * Facade
   * Flyweight
   * Proxy
+
+
+* Behavioral Patterns
+  * Chain of Responsibility
