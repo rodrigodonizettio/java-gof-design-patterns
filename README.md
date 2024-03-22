@@ -31,3 +31,4 @@ This repository has the following examples of implementation:
 * Behavioral Patterns
   * Chain of Responsibility
   * Memento
+  * Command
