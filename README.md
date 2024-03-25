@@ -32,3 +32,4 @@ This repository has the following examples of implementation:
   * Chain of Responsibility
   * Memento
   * Command
+  * Iterator
