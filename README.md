@@ -33,3 +33,4 @@ This repository has the following examples of implementation:
   * Memento
   * Command
   * Iterator
+  * Mediator
