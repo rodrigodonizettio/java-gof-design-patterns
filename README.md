@@ -34,3 +34,4 @@ This repository has the following examples of implementation:
   * Command
   * Iterator
   * Mediator
+  * Observer
