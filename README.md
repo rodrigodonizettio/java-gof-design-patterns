@@ -36,3 +36,4 @@ This repository has the following examples of implementation:
   * Mediator
   * Observer
   * State
+  * Strategy
