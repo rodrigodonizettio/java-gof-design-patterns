@@ -37,3 +37,4 @@ This repository has the following examples of implementation:
   * Observer
   * State
   * Strategy
+  * Template Method
