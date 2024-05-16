@@ -38,3 +38,4 @@ This repository has the following examples of implementation:
   * State
   * Strategy
   * Template Method
+  * Visitor
